@@ -8,7 +8,7 @@ const CenterComponent = () => {
         <fieldset>
           <input type="text"></input>
         </fieldset>
-      </form>sadjasiodasjdio */}
+      </form> fgjaipwdjgaiowejgioawegjioawegj 작업 내용.*/}
       <h2>Editor</h2>
     </>
   );
